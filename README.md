@@ -1,41 +1,59 @@
 <h1 align="center">Hi 👋, I'm Alqama Qureshi</h1>
-<h3 align="center">A passionate Mobile Application developer from Pakistan</h3>
+<h3 align="center">Software Quality Assurance Enthusiast | Former Android Developer | Lifelong Learner</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alqama09876&label=Profile%20views&color=0e75b6&style=flat" alt="alqama09876" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alqama09876" alt="alqama09876" /></a> </p>
-
-- 🔭 I’m currently working on **Study Buddy App**
-
-- 🌱 I’m currently learning **React Native and Flutter**
-
-- 👯 I’m looking to collaborate on **Both Native and Hybrid Projects**
-
-- 🤝 I’m looking for help with **React Native**
-
-- 👨‍💻 All of my projects are available at [https://github.com/alqama09876/](https://github.com/alqama09876/)
-
-- 💬 Ask me about **Android and Flutter**
-
-- 📫 How to reach me **alqamaqureshi156@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1bsOvhHfVJ4jLcn-xE_hMGbJHOanHQtpIdC2vdRGAQSA/edit?usp=sharing](https://docs.google.com/document/d/1bsOvhHfVJ4jLcn-xE_hMGbJHOanHQtpIdC2vdRGAQSA/edit?usp=sharing)
-
-- ⚡ Fun fact **Singing with Friends**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/alqama_qureshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alqama_qureshi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alqama qureshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alqama qureshi" height="30" width="40" /></a>
-<a href="https://fb.com/alqama qureshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alqama qureshi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/alqama qureshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alqama qureshi" height="30" width="40" /></a>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=alqama09876&label=Profile%20views&color=0e75b6&style=flat" alt="alqama09876" /> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alqama09876&show_icons=true&locale=en&layout=compact" alt="alqama09876" /></p>
+### 👨‍💻 About Me  
+- 🎓 **Software Engineering Graduate** from Muhammad Ali Jinnah University  
+- 🧪 Passionate about **Software Quality Assurance (Manual + Automation)**  
+- 📱 Former **Android Developer**, experienced in building mobile applications using **Java, Kotlin & Firebase**  
+- 💡 Internship @ **IT Corp Inc (Aug 2024 – Jan 2025)** as **Android Developer / QA Trainee**, where I developed an **Attendance Management App (Attendo)** and collaborated on **manual testing, bug tracking & verification**  
+- 🌱 Currently learning **Selenium with C#**, improving skills in **API testing (Postman), SDLC/STLC, and Test Planning**  
+- 🚀 Career Goal: To grow as a **QA Engineer** and explore advanced areas like performance testing, mobile testing & CI/CD pipelines  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alqama09876&show_icons=true&locale=en" alt="alqama09876" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alqama09876&" alt="alqama09876" /></p>
+### 🛠️ Tech Stack  
+
+#### 🔹 QA & Testing  
+- Manual Testing | Test Case Design | Bug Reporting  
+- **Selenium (C#)** | Postman | JIRA  
+
+#### 🔹 Development Background  
+- **Languages:** Java | Kotlin | C# | C | C++ | SQL | Python  
+- **Mobile Dev:** Android (Java/Kotlin, Firebase, REST API, SQLite, Room DB)  
+- **Web Basics:** HTML | CSS | Node.js | Express.js  
+- **Tools:** Git | GitHub | Android Studio | Figma | Adobe XD  
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alqama09876&show_icons=true&theme=tokyonight" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alqama09876&theme=tokyonight" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alqama09876&layout=compact&theme=tokyonight" alt="langs" />
+</p>
+
+---
+
+### 🌐 Connect with Me  
+<p align="left">
+<a href="https://linkedin.com/in/alqama-qureshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alqama-qureshi" height="30" width="40" /></a>
+<a href="https://twitter.com/alqama_qureshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alqama_qureshi" height="30" width="40" /></a>
+<a href="https://fb.com/alqama.qureshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alqama qureshi" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@alqamaqureshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alqama qureshi" height="30" width="40" /></a>
+</p>
+
+📫 Reach me at: **alqamaqureshi156@gmail.com**  
+
+---
