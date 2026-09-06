@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alqama Qureshi</h1>
-<h3 align="center">Software QA Engineer | Test Automation (Selenium & Playwright) | Fintech Quality</h3>
+<h3 align="center">Application Support Engineer @ AdalFi | Aspiring QA Engineer | Manual & Automation Testing</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=alqama09876&label=Profile%20views&color=0e75b6&style=flat" alt="alqama09876" /> 
@@ -9,12 +9,12 @@
 
 ### 👨‍💻 About Me  
 - 🎓 **Software Engineering graduate** from Muhammad Ali Jinnah University (MAJU)  
-- 🧪 **Software QA Engineer** focused on both **Manual and Automation Testing**  
-- 🏦 Currently at **AdalFi**, supporting Pakistan's leading **digital lending fintech platform** (1.2B+ transactions, 50K+ borrowers), with direct hands-on responsibility for **JS Bank** and **Askari Bank** implementations  
-- 🔍 Hands-on with **Selenium WebDriver (C#)**, **Playwright (TypeScript)**, **API testing (Postman)**, and **SQL-based production debugging**  
-- 🔗 Experienced in **core banking integrations (T24, FlexCube)**, end-to-end **defect lifecycle in JIRA**, and **CI/CD with Jenkins**  
+- 💼 Currently working as an **Application Support Engineer at AdalFi** (Pakistan's leading digital lending fintech), where my role also involves **application testing and production support** for **JS Bank** and **Askari Bank** implementations  
+- 🧪 Passionate about **Software Quality Assurance**, and I actively practice **Manual and Automation Testing** in my free time to sharpen my QA skills  
+- 🔍 Hands-on with **Selenium WebDriver (C#)**, **Playwright (TypeScript)**, **API testing (Postman)**, and **SQL-based debugging**  
+- 🔗 Exposure to **core banking integrations (T24, FlexCube)**, **defect lifecycle in JIRA**, and **CI/CD with Jenkins**  
 - 📱 Android development background using **Java, Kotlin, and Firebase**  
-- 🚀 Career goal: grow into an **SDET**, going deeper into **API automation, performance testing, and CI/CD pipelines**  
+- 🚀 Career goal: to work as a dedicated **QA Engineer** and grow toward **SDET**, going deeper into **API automation, performance testing, and CI/CD pipelines**  
 
 ---
 
@@ -38,15 +38,15 @@
 ---
 
 ### 🚀 Featured Projects  
-- **Swag Labs Automation Suite** — End-to-end e-commerce test automation (login, cart, checkout, navigation) using **Selenium WebDriver (C#)** with **Page Object Model** and **Extent Reports**  
-- **MoodifyAI** — Mental wellness Android app with mood tracking, AI chatbot, and therapist communication, powered by **Firebase**  
+- **Swag Labs Automation Suite:** End-to-end e-commerce test automation (login, cart, checkout, navigation) using **Selenium WebDriver (C#)** with **Page Object Model** and **Extent Reports**  
+- **MoodifyAI:** Mental wellness Android app with mood tracking, AI chatbot, and therapist communication, powered by **Firebase**  
 
 ---
 
 ### 📜 Certifications  
-- **Full Stack QA: Software Testing & Automation Bootcamp** — Contour Software × MAJU (2025)  
-- **SFPC® Scrum Foundation Professional Certified** — CertiProf (2024)  
-- **PMEC® Project Management Essential Certified** — MSO (2024)  
+- **Full Stack QA: Software Testing & Automation Bootcamp** | Contour Software × MAJU (2025)  
+- **SFPC® Scrum Foundation Professional Certified** | CertiProf (2024)  
+- **PMEC® Project Management Essential Certified** | MSO (2024)  
 
 ---
 
@@ -72,6 +72,6 @@
 <a href="https://www.youtube.com/@alqamaqureshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alqama qureshi" height="30" width="40" /></a>
 </p>
 
-📫 Reach me at: **alqamaqureshi156@gmail.com**  
+📫 Reach me at: **alqama.mujahid@gmail.com**  
 
 ---
